@@ -1,0 +1,42 @@
+p {
+  font-size: 15px;
+  font-weight: 500;
+}
+.pattern-top-desk {
+  position: absolute;
+  top: -0%;
+}
+.pattern-bottom-desk {
+  position: absolute;
+  top: 15%;
+  right: 0%;
+}
+
+#brief-desc {
+  margin: 150px 0 0 180px;
+  width: 26%;
+}
+.heading {
+  color: hsl(300, 43%, 22%);
+}
+.about {
+  width: 130%;
+  color: hsl(303, 10%, 53%);
+}
+#rating {
+  position: absolute;
+  top: 25%;
+  right: 30%;
+}
+#rating p {
+  display: inline-block;
+  color: hsl(300, 43%, 22%);
+}
+#rating img {
+  display: inline-block;
+}
+.rating1 {
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 10px;
+  padding: 0 10px 0 10px;
+}
